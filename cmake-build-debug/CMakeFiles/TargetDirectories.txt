@@ -1,0 +1,3 @@
+/home/kumaraswamy/mlemon/learn-assembly/cmake-build-debug/CMakeFiles/learn_assembly.dir
+/home/kumaraswamy/mlemon/learn-assembly/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kumaraswamy/mlemon/learn-assembly/cmake-build-debug/CMakeFiles/rebuild_cache.dir
